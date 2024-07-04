@@ -3,7 +3,7 @@
 ![mybanner](/image/banner.jpeg)
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Learning and building up my skill by doing projects<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>backend tech such as Node<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Learning and Never get tired of it.
 
 
 ## 🌐 Socials:
