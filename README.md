@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">passionate <br> <hr>  Student | Learner | Developer | Designer | Sketcher </h3>
 
 ![mybanner](/image/banner.jpeg)
 
