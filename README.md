@@ -1,4 +1,4 @@
-<h3 align="center">PASSIONATE <br> <hr>  Student | Learner | Developer | Designer | Sketcher </h3>
+<h3 align="center">PASSIONATE <br> <hr>  Learner | Developer | Designer | Sketcher </h3>
 
 ![mybanner](/image/banner.jpeg)
 
