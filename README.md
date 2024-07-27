@@ -44,9 +44,9 @@
 
 ---
 
-<div style="display:flex;flex-direction:column;width:100%;justify-content:center;align-items:center;">
-
-[![](https://visitcount.itsvg.in/api?id=Shivamds15&icon=0&color=0)](https://visitcount.itsvg.in) 
-<p>Show some ❤️ by starring some of the repositories!</p>
-
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Shivamds15&icon=0&color=0" alt="visit count">
+  </a>
+  <p>Show some ❤️ by starring some of the repositories!</p>
 </div>
